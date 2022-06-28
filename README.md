@@ -12,7 +12,7 @@ This is a css design project.
 
 ### Links
 
-Solution URL- [https://codayomide.github.io/registration-form-task](https://codayomide.github.io/registration-form-task)
+Live Site URL- [https://codayomide.github.io/css-project-with-daniel](https://codayomide.github.io/css-project-with-daniel)
 
 ### Built with
 
